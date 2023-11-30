@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/VENUS_HD/static/css/main.f855e6bc.css",
-    "main.js": "/VENUS_HD/static/js/main.2a460128.js",
-    "static/js/787.ede3a5c9.chunk.js": "/VENUS_HD/static/js/787.ede3a5c9.chunk.js",
-    "static/media/logo.svg": "/VENUS_HD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/VENUS_HD/index.html",
-    "main.f855e6bc.css.map": "/VENUS_HD/static/css/main.f855e6bc.css.map",
-    "main.2a460128.js.map": "/VENUS_HD/static/js/main.2a460128.js.map",
-    "787.ede3a5c9.chunk.js.map": "/VENUS_HD/static/js/787.ede3a5c9.chunk.js.map"
+    "main.css": "/VENUS-HD/static/css/main.f855e6bc.css",
+    "main.js": "/VENUS-HD/static/js/main.a8babb3b.js",
+    "static/js/787.ede3a5c9.chunk.js": "/VENUS-HD/static/js/787.ede3a5c9.chunk.js",
+    "static/media/logo.svg": "/VENUS-HD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/VENUS-HD/index.html",
+    "main.f855e6bc.css.map": "/VENUS-HD/static/css/main.f855e6bc.css.map",
+    "main.a8babb3b.js.map": "/VENUS-HD/static/js/main.a8babb3b.js.map",
+    "787.ede3a5c9.chunk.js.map": "/VENUS-HD/static/js/787.ede3a5c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2a460128.js"
+    "static/js/main.a8babb3b.js"
   ]
 }
