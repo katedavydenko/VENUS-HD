@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/VENUS-HD/static/css/main.91636e0d.css",
-    "main.js": "/VENUS-HD/static/js/main.c33abeee.js",
+    "main.js": "/VENUS-HD/static/js/main.f62df57b.js",
     "static/js/787.ede3a5c9.chunk.js": "/VENUS-HD/static/js/787.ede3a5c9.chunk.js",
     "static/media/header-pic.jpg": "/VENUS-HD/static/media/header-pic.c041bc3c599f5f42b30e.jpg",
     "index.html": "/VENUS-HD/index.html",
     "main.91636e0d.css.map": "/VENUS-HD/static/css/main.91636e0d.css.map",
-    "main.c33abeee.js.map": "/VENUS-HD/static/js/main.c33abeee.js.map",
+    "main.f62df57b.js.map": "/VENUS-HD/static/js/main.f62df57b.js.map",
     "787.ede3a5c9.chunk.js.map": "/VENUS-HD/static/js/787.ede3a5c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91636e0d.css",
-    "static/js/main.c33abeee.js"
+    "static/js/main.f62df57b.js"
   ]
 }
