@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/VENUS-HD/static/css/main.91636e0d.css",
-    "main.js": "/VENUS-HD/static/js/main.f62df57b.js",
+    "main.css": "/VENUS-HD/static/css/main.bb9d5fe3.css",
+    "main.js": "/VENUS-HD/static/js/main.164e358e.js",
     "static/js/787.ede3a5c9.chunk.js": "/VENUS-HD/static/js/787.ede3a5c9.chunk.js",
+    "static/media/lipglosses-samp-pic.png": "/VENUS-HD/static/media/lipglosses-samp-pic.1e13b49055de22da7798.png",
+    "static/media/tutorial-pic-top.jpg": "/VENUS-HD/static/media/tutorial-pic-top.536f19a38483f128a85a.jpg",
+    "static/media/tutorial-pic-bottom.jpg": "/VENUS-HD/static/media/tutorial-pic-bottom.16549fab37e449ed53b3.jpg",
+    "static/media/crazy-mascara.png": "/VENUS-HD/static/media/crazy-mascara.51bfd06e10122ab69a97.png",
+    "static/media/product4.png": "/VENUS-HD/static/media/product4.bf27174257d45eef4589.png",
     "static/media/header-pic.jpg": "/VENUS-HD/static/media/header-pic.c041bc3c599f5f42b30e.jpg",
+    "static/media/product7.png": "/VENUS-HD/static/media/product7.0456a1c9fff2a2c5d474.png",
+    "static/media/product6.png": "/VENUS-HD/static/media/product6.1149001bed500de05cc0.png",
+    "static/media/product1.png": "/VENUS-HD/static/media/product1.15f237f75f4b1bebb02a.png",
+    "static/media/product5.png": "/VENUS-HD/static/media/product5.9ff3c0fa1f82b16b203f.png",
+    "static/media/product3.png": "/VENUS-HD/static/media/product3.4d85a7eba9bc81f1d7b7.png",
+    "static/media/product2.png": "/VENUS-HD/static/media/product2.a49fdc51cdf24dfde93b.png",
+    "static/media/perfume4.png": "/VENUS-HD/static/media/perfume4.09e392e7dfbf56b902ec.png",
+    "static/media/perfume3.png": "/VENUS-HD/static/media/perfume3.c916a3e7ee782b9b1c12.png",
+    "static/media/perfume1.png": "/VENUS-HD/static/media/perfume1.e18d8d34f7778b156c33.png",
+    "static/media/perfume2.png": "/VENUS-HD/static/media/perfume2.43e8f98597727786ce77.png",
+    "static/media/slick.svg": "/VENUS-HD/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/VENUS-HD/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "index.html": "/VENUS-HD/index.html",
-    "main.91636e0d.css.map": "/VENUS-HD/static/css/main.91636e0d.css.map",
-    "main.f62df57b.js.map": "/VENUS-HD/static/js/main.f62df57b.js.map",
+    "static/media/slick.ttf": "/VENUS-HD/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/VENUS-HD/static/media/slick.295183786cd8a1389865.woff",
+    "main.bb9d5fe3.css.map": "/VENUS-HD/static/css/main.bb9d5fe3.css.map",
+    "main.164e358e.js.map": "/VENUS-HD/static/js/main.164e358e.js.map",
     "787.ede3a5c9.chunk.js.map": "/VENUS-HD/static/js/787.ede3a5c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91636e0d.css",
-    "static/js/main.f62df57b.js"
+    "static/css/main.bb9d5fe3.css",
+    "static/js/main.164e358e.js"
   ]
 }
